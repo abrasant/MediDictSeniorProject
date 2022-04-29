@@ -1,6 +1,10 @@
 <resources>
     <string name="app_name">Medi-Dict-Senior-Project</string>
+    <string name="headerTitle">Medi-Dict</string>
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
+    <string name="word_of_the_day">the word of the day today is: </string>
+    <string name="dictionary">Use Medical Dictionary</string>
+    <string name="autocorrect">Add/Update Autocorrect</string>
 </resources>
