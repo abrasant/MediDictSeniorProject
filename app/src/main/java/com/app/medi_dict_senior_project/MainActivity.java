@@ -25,6 +25,7 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.io.InputStream;
 import java.util.HashMap;
+import java.util.Locale;
 import java.util.Map;
 import java.util.Scanner;
 
@@ -32,12 +33,12 @@ public class MainActivity extends AppCompatActivity {
 
     private ActivityMainBinding binding;
     private Context context;
-    private Button submitQuery;
+    private Button submitQuery, pressedBtn;
     private EditText query;
     private TextView queryOutput;
     //private final File dictFile = new File("dictionary.txt");
     private boolean isLoaded = false;
-    private Map<String, String> dictMap = new HashMap<>(1000);
+    private HashMap<String, String> dictMap = new HashMap<>(1000);
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -71,8 +72,9 @@ public class MainActivity extends AppCompatActivity {
                search();
             }
         });
-        query = findViewById(R.id.dictSearch);
-        query.setOnClickListener(new View.OnClickListener() {
+        query = (EditText) findViewById(R.id.dictSearch);
+        pressedBtn = findViewById(R.id.dictionary);
+        pressedBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 initializeHashMap();
@@ -82,13 +84,22 @@ public class MainActivity extends AppCompatActivity {
     public void initializeHashMap () {
         if(!isLoaded) {
             try {
-                InputStream inputStream = context.getAssets().open("dictionary.txt");
+                InputStream inputStream = getAssets().open("dictionary.txt");
                 Scanner scan = new Scanner(inputStream);
 
+//                if (scan.hasNext()){
+//                    queryOutput.setText(scan.next());
+//                }
+//                else{
+//                    queryOutput.setText("Didnt initialize");
+//                }
+
                while(scan.hasNext()){
-                    String key = scan.next();
+                    String key = scan.next().toLowerCase();
                     String val = scan.nextLine();
+                    System.out.println(key + ",  " + val);
                     dictMap.put(key, val);
+                    System.out.println(dictMap.get(key));
                }
                 
                 isLoaded = true;
@@ -105,9 +116,11 @@ public class MainActivity extends AppCompatActivity {
         inputManager.hideSoftInputFromWindow((getCurrentFocus() == null) ? null : getCurrentFocus().getWindowToken(), InputMethodManager.HIDE_NOT_ALWAYS);
 
         String sKey = query.getText().toString().trim();
+        System.out.println(sKey);
 
-        //String out = dictMap.get(sKey.toLowerCase());
-        String out = dictMap.toString();
+        String out = dictMap.get(sKey);
+        System.out.println(out);
+//        String out = dictMap.toString();
         if (out != null){
             queryOutput.setText(out);
         }
