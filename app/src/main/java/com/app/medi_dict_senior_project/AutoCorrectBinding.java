@@ -1,4 +1,4 @@
-package com.app.medi_dict_senior_project.logic;
+package com.app.medi_dict_senior_project;
 
 import android.provider.UserDictionary;
 import android.view.View;

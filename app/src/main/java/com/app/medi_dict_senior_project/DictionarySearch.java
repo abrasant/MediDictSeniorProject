@@ -1,4 +1,4 @@
-package com.app.medi_dict_senior_project.logic;
+package com.app.medi_dict_senior_project;
 
 import android.widget.EditText;
 import android.widget.TextView;

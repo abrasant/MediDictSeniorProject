@@ -8,7 +8,6 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 
-import com.app.medi_dict_senior_project.logic.DictionarySearch;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -19,14 +18,9 @@ import androidx.navigation.ui.NavigationUI;
 
 import com.app.medi_dict_senior_project.databinding.ActivityMainBinding;
 
-import java.io.BufferedReader;
-import java.io.File;
-import java.io.FileReader;
 import java.io.IOException;
 import java.io.InputStream;
 import java.util.HashMap;
-import java.util.Locale;
-import java.util.Map;
 import java.util.Scanner;
 
 public class MainActivity extends AppCompatActivity {
@@ -36,14 +30,12 @@ public class MainActivity extends AppCompatActivity {
     private Button submitQuery, pressedBtn;
     private EditText query;
     private TextView queryOutput;
-    //private final File dictFile = new File("dictionary.txt");
     private boolean isLoaded = false;
     private HashMap<String, String> dictMap = new HashMap<>(1000);
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        //setContentView(R.layout.activity_main);
 
         binding = ActivityMainBinding.inflate(getLayoutInflater());
         setContentView(binding.getRoot());
@@ -87,13 +79,6 @@ public class MainActivity extends AppCompatActivity {
                 InputStream inputStream = getAssets().open("dictionary.txt");
                 Scanner scan = new Scanner(inputStream);
 
-//                if (scan.hasNext()){
-//                    queryOutput.setText(scan.next());
-//                }
-//                else{
-//                    queryOutput.setText("Didnt initialize");
-//                }
-
                while(scan.hasNext()){
                     String key = scan.next().toLowerCase();
                     String val = scan.nextLine();
@@ -120,7 +105,6 @@ public class MainActivity extends AppCompatActivity {
 
         String out = dictMap.get(sKey);
         System.out.println(out);
-//        String out = dictMap.toString();
         if (out != null){
             queryOutput.setText(out);
         }
