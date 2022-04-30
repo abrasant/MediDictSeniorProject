@@ -30,15 +30,15 @@ public class AutoCorrectBinding extends AppCompatActivity implements View.OnClic
         this simply parses a dictionary and retrieves each word from the .csv file and places them
         into a linked list.
 
-        @param csvFile a csv file containing words for auto correct library
+        @param file a csv file containing words for auto correct library
         @return LinkedList<String> a list containing parsed words.
      */
-    public LinkedList<String> dictParser(String csvFile){
+    public LinkedList<String> dictParser(String file){
 
         LinkedList<String> out = new LinkedList<>();
 
         try{
-            InputStream inputStream = context.getAssets().open("AutoCorrectBinding.txt");
+            InputStream inputStream = context.getAssets().open(file);
             Scanner scan = new Scanner(inputStream);
 
             while(scan.hasNext()){
@@ -59,7 +59,7 @@ public class AutoCorrectBinding extends AppCompatActivity implements View.OnClic
     public void onClick(View view) {
 
         try {
-            InputStream inputStream = context.getAssets().open("AutoCorrectBinding.txt");
+            InputStream inputStream = context.getAssets().open("AutoCorrectStatus.txt");
             Scanner scan = new Scanner(inputStream);
 
             if (scan.next().equals("1")){
@@ -78,7 +78,7 @@ public class AutoCorrectBinding extends AppCompatActivity implements View.OnClic
         words = dictParser("medical_dict_autocorrect_support.txt");
 
         for (String word : words) {
-            UserDictionary.Words.addWord(getApplicationContext(), word, 1, "", Locale.ENGLISH);
+            UserDictionary.Words.addWord(context, word, 100, "", Locale.ENGLISH);
         }
     }
 }
