@@ -43,11 +43,25 @@
             android:layout_marginTop="46dp"
             android:text="@string/dictionary" />
         <Button
-            android:id="@+id/autocorrect"
+            android:id="@+id/submitQuery"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="46dp"
-            android:text="@string/autocorrect" />
+            android:text="Search Dictionary" />
+
+        <EditText
+            android:id="@+id/dictSearch"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+        </EditText>
+
+        <TextView
+            android:id="@+id/dictDefinition"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+        </TextView>
 
     </LinearLayout>
 

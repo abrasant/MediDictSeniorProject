@@ -1,0 +1,214 @@
+Abacterial (a.) Not caused by or free from the presence of bacteria.
+
+Abbocillin (n.) A brand name for PHENOXYMETHYLPENICILLIN.
+
+Abdomen (n.) The part of the body of a vertebrate containing the digestive organs; the belly.
+
+Abdominoplasty (n.) A surgical operation involving the removal of excess flesh from the abdomen. Otherwise known as a "Tummy-Tuck"
+
+Abiotrophy (n.) Degeneration or loss of function or vitality in an organism or in cells or tissues not due to any apparent injury.
+
+Abnormal (a.) Deviating from what is normal or usual, typically in a way that is undesirable or worrying.
+
+Abnormality (n.) An abnormal feature, characteristic, or occurrence, typically in a medical context.
+
+Abomasitis (n.) A relatively rare ruminant disease characterized by inflammation of abomasum.
+
+Abomasum (n.) The fourth and final stomach compartment in ruminants.
+
+Acebutolol (n.) Medication used to treath high blood pressure, and irregular heartbeat.
+
+Acidol (n.) Tablet that contains aceclofenac as an active ingredient. Pain relieving medicine used for relieving pain, swelling, and inflammation in different forms of arthritis and ankylosing spondylitis.
+
+Agrylin (n.) Used to treat a blood cell disorder called thrombocythemia, which occurs when your body produces too many platelet cells.
+
+Bacitracin (n.) Antibiotic which exerts a profound action against many grampositive pathogens, including the common Streptococci and Staphlococci.
+
+Benadryl (n.) Antihistamine that reduces the effects of natural chemical histamine in the body. Used to treat sneezing, runny nose, watery eyes, etc.
+
+Benign (a.) Not cancerous
+
+Benzonatate (n.) Non-narcotic cough medicine.
+
+Biopsy (n.) A small sample of tissue thats taken for testing.
+
+Biotin (n.) Form of vitamin B found in foods. Biotin helps the body break down fats, carbohydrates, and proteins.
+
+Bromocriptine (n.) Used to treat certain menstrual problems in women and stops milk production in some men and women who have abnormal milk leakage.
+
+Buprenorphine (n.) Precription medicine used to treat opioid addicction, as part of a complete treatement program that also includes counseling and behavioral therapy.
+
+Bupropion (n.) Antidepressant medication sued to treat major depressive disorder and seasonal affective disorder.
+
+Buspirone (n.) Anti-axiety medicine that affects chemicals in the brain that may be unbalanced in people with anxiety.
+
+Bystolic (n.) Bystolic belongs to a group of drugs called beta-blockers. Affect the heart and circulation. Used to treat hypertension. May lower risk of heart attack or stroke.
+
+Calcium (n.) Mineral that is found naturally in foods. Necessary for many normal functions of the body, especially bone formation and maintenance.
+
+Carvedilol (n.) Beta-Blocker. Beta-Blockers affect the heart and circulation. Used to treat heart failure and hypertension. Also used after a heart attack that has caused your heart not to pump as well.
+
+Chronic (a.) Signifies a recurring, persistent condition like heart disease.
+
+Celebrex (n.) Nonsteroidal anti-inflammatory drug. It works by reducing hormones that caused inflammation and pain in the body.
+
+Chlorthalidone (n.) Thiazide diuretic (water pill) that helps prevent your body from absorbing too much salt, which can cause fluid retention.
+
+Codeine (n.) Opioid pain medication, somtimes called a narcotic.
+
+Concerta (n.) Central nervous system stimulant prescription medicine. Affects chemicals in the brain and nerves that contribute to hyperactivity and impulse control.
+
+Cymbalta (n.) Selective serotonin and norepinephrine reuptake inhibitor antidepressant. Used to treat major depressive disorder in adults.
+
+Contusion (n.) A bruise.
+
+Edema (n.) Swelling caused by fluid accumulation.
+
+Embolism (n.) An arterial blockage, often caused by a blood clot.
+
+Epidermis (n.) The outer layer of the skin.
+
+Fracture (n.) Broken bone or cartiladge.
+
+Gland (n.) An organ or tissue that produces and secrets fluids that serve a specific function.
+
+Hypertension (n.) High blood pressure.
+
+Inpatient (n.) A patient who requires hospitalization.
+
+Intravenous (n.) Indicated medication or fluid that's delivered by vein.
+
+Malignant (n.) Indicates the presence of cancerous cells.
+
+Outpatient (n.) A patient who receives care without being admitted to a hospital.
+
+Prognosis (n.) The predicated outcome of disease progression and treatment.
+
+Relapse (n.) Return of disease or symptoms after a patient has recovered.
+
+Suturues (n.) Stitches, which are sued to join tissues together as they heal.
+
+Transplant (n.) The removal of an organ or tissue from one body that is implanted into another.
+
+Vaccine (n.) A substance that stimulates antibody production to provide immunity against disease.
+
+Dapagliflozin (n.) Prescription medication that is mainly used alongside diet and exercise to help treat type 2 diabetes, but is also used in the treatment of heart failure.
+
+Delzicol (n.) Used to treat mild to moderate ulcerative colitis. Also used to prevent the symptoms of ulcerative colitis from recurring.
+
+Desloratadine (n.) Antihistamine that is used to treat the symptoms of allergies, such as sneezing, watery eyes, itching, and runny nose.
+
+Diastat (n.) Rectal gel used to treat seizures in people with epilepsy.
+
+Diclofenac (n.) Nonsteroidal anti-inflammatory drug. Works by reducing substances in the body that cause pain and inflammation.
+
+Dilantin (n.) Anti-epileptic drug, also called an anticonvulsant. Works by slowing down impulses in the brain that ccause seizures.
+
+Ecotrin (n.) Salicylate that is used to treat pain, and reduce fever or inflammation.
+
+Empaveli (n.) Prescription medicine used to treat adults with a disease called paroxysmal nocturnal hemoglobinuria.
+
+Epinephrine (n.) Endogenous catecholamine that is the active principle or the adrenal medulla.
+
+Esomeprazole (n.) Used to treat symptoms of gastroesophageal reflux disease and other conditions involving excessive stomach acid such as Zollinger-Ellison syndrome.
+
+Etodolac (n.) Nonsteroidal anti-inflammatory drug. Works by reducing hormones that cause inflammation and pain in the body.
+
+Excedrine (n.) Contains a combination of acetaminophen, aspirin, and caffeine. Used to treat pain caused by tension headaches, migraine headaches, muscle aches, menstrual cramps, arthritis, toothaches, the common cold, or nasal congestion.
+
+Ezetimibe (n.) Prescription medicine used to lower levels of total cholesterol and LDL cholesterol in the blood.
+
+Fasenra (n.) Monoclonal antibody that affects the actions of the body's immune system. Works by reducing levels of eosinophils, a certain type of white blood cell that may contribute to the symptoms of asthma.
+
+Fentanyl (n.) Opioid pain medication, sometimes called a narcotic.
+
+Flomax (n.) Alpha-blocker that relaxes the muscles in the prostate and bladder neck, making it easier to urinate.
+
+Glucotrol (n.) Oral diabetes mediccine that helps control blood sugar levels by helping your pancreas produce insulin.
+
+Griseofulvin (n.) Antifugal medicine that is used to treat infections such as ringworm, athlete's foot, jock itch, and fungal infections of the scalp, fingernails, or toenails.
+
+Hemabate (n.) Form of prostaglandin. Prostaglandins help to control functions in the body such as blood pressure nad muscle contractions.
+
+Hydroxychloroquine (n.) Quinoline medicine used to treat or prevent malaria, a disease caused by parasites that enter the body through the bite of a mosquito.
+
+Hydrea (n.) Used to treat chronic myeloid leukemia, ovarian cancer, and certain types of skin cancer.
+
+Ibandronate (n.) Synthetic bisphosphonate; bone resortion inhibitor.
+
+Imodium (n.) Loperamide is used to control and relieve the symptoms of acute diarrhea. It is also used to treat chronic diarrhea in patients with inflammatory bowel disease. 
+
+Indocin (n.) Nonsteroidal anti-inflammatory drug. Used to treat moderate to severe osteoarthritis, rheumatoid arthritis, gouty arthritis, or ankylosing spondylitis. Also used to treat shoulder pain caused by bursitis or tendinitis.
+
+Insulin (n.) Hormone that works by lowering levels of glucose in the blod. Regular insulin is short-acting and starts to work within 30 minutes after injection, peaks in 2 to 3 hours, and keeps working for up to 8 hours.
+
+Itraconazole (n.) Antifungal medication that is used in adults to treat infections caused by fungus. This includes infections in any part of the body including the lungs, mouth or throat, toenails, or fingernails.
+
+Ivermectin (n.) Anti-parasite medication used to treat parasitic diseases. FDA approved drug for use in humans to treat a variety of parasitic infections including parasitic worms, hookworm and whipworm.
+
+Jojoba (n.) Toxicity of the constituent simmondsin in jojoba seed meal and some oil components limits the likelihood of clinical applications. JOjoba oil is commonly used in dermatological preparations.
+
+Kaolin (n.) Has traditionally been used internally to control diarrhea. Haolin has also been used topically as an emollient and drying agent.
+
+Ketalar (n.) Used to put you to sleep for surgery and to prevent pain and discomfort during certain medical tests or procedures.
+
+Ketamine (n.) Used to put you to sleep for surgery and to prevent pain and discomfort during certain medical tests or procedures.
+
+Ketotifen (n.) Type of asthma medication which, when taken every day and used along with other antiasthma medications, may reduce the frequency, severity, and duration of asthma symptoms or attacks in children.
+
+Klonopin (n.) Is a benzodiazepine. It is thought that benzodiazepines work by enhancing the activity of certain neurotransmitters in the brain.
+
+Kyleena (n.) Contains levnorgestrel, a female hormone that can cause changes in your cervical mucus and uterine lining, making it harder for sperm to reach the uterus and harder for a fertilized egg to attach to the uterus.
+
+Lamictal (n.) Anti-epileptic medication, also called an anticonvulsant. Used alone or with other medications to treat epileptic seizures in adults and children.
+
+Levemir (n.) Man-made form of insulin, a hormone that is produced in the body. Insuling works by lowering levels of glucose in the blood.
+
+Lexapro (n.) Antidepressant belonging to a group of drugs called selective serotonin reuptake inhibitors. Esscitalopram affects the levels of certain chemicals in the brain that may be altered in people suffering from depression or anxiety.
+
+Lithium (n.) Affects the flow of sodium through the nerve and muscle cells in the body. Sodium affects excitation or mania.
+
+Loperamide (n.) Used to treat diarrhea. Also used to reduce the amount of stool in people who have an ileostomy.
+
+Loratadine (n.) Antihistamine that reduces the effects of natural chemical histamine in the body. Histamine can produce symptoms of sneezing, itching, watery eyes, and runny nose.
+
+Melatonin (n.) Natural hormone your body secretes that helps to maintain your wake-sleep cycle. Melatonin is also made synthetically and available without a prescription as an over-the-counter dietary supplement in the U.S.
+
+Meloxicam (n.) Nonsteroidal anti-inflammatory drug. It works by reducing hormones that causes inflammation and pain in the body.
+
+Methotrexate (n.) Interferes with the growth of certain cells of the body, especially cells that reproduce quickly, such as cancer cells, bone marrow cells, and skin cells.
+
+Metronidazole (n.) Antibiotic that is used to treat bacterial infections of the vagina, stomach, liver, skin, joints, brain and spinal cord, lungs, heart, or bloodstream.
+
+Morphine (n.) Opioid medication. An opioid is sometimes called a narcotic. Morphine works by blocking pain signals from travelling along the nerves to the brain.
+
+Mucinex (n.) Mucinex is an expectorant. Helps loosen congestion in your chestt and throat, making it easier to cough out through your mouth.
+
+Naproxen (n.) Nonsteroidal anti-inflammatory drug. Works by reducing hormones that cause inflammation and pain in the body.
+
+Narcan (n.) Used for emergency treatment of an opioid overdose or a possible overdose.
+
+Neosporin (n.) Neomycin, polymyxin B, and gramicidin is a combination antibiotic medicine used to treat infections of the eye.
+
+Nicotine (n.) Cholinergic-receptor agonist.
+
+Norepinephrine (n.) Similar to adrenaline. It is used to treat life-threatening low blood pressure that can occur with certain medical conditions or surgical procedures.
+
+Nystatin (n.) Used to treat yeast infections in the mouth.
+
+Olanzapine (n.) Antipsychotic medication that is used to treat psychotic conditions such as schizoprenia and bipolar disorder in adults and children at least 13 years old.
+
+Omeprazole (n.) Proton pump inhibitor that decreases the amount of acid produced in the stomach.
+
+
+
+
+
+
+
+
+
+
+
+
+
