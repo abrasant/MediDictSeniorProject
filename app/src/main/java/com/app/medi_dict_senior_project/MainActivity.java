@@ -72,6 +72,10 @@ public class MainActivity extends AppCompatActivity {
                 initializeHashMap();
             }
         });
+
+        Button autocorrectBtn = findViewById(R.id.autocorrectBtn);
+
+        autocorrectBtn.setOnClickListener(new AutoCorrectBinding(this));
     }
     public void initializeHashMap () {
         if(!isLoaded) {
@@ -88,6 +92,8 @@ public class MainActivity extends AppCompatActivity {
                }
                 
                 isLoaded = true;
+                scan.close();
+                inputStream.close();
 
             } catch(IOException e) {
                 e.printStackTrace();
